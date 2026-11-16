@@ -1,0 +1,15 @@
+{
+  "CODEX_CONTEXT.md": "786bded5d1b4d7f29eef05c08360d4b22e34f47ffa4d25bf63a3724a03070edf",
+  "README.md": "08bd1f91fda3585434a4129ac250ba4518d0df921b0c2c63c52555e952916c85",
+  "data_dictionary.json": "24921d98c52b6b15e8894218ada9840f0b18f6b629659d6858a502445b5b65ef",
+  "excluded_records.jsonl": "af333d25b2489b18427c0fe41edf0dd8e08ba7cfb2e11d3278877cf17be1f70d",
+  "industry_metrics.csv": "a6c4f7ce1f63b3f54e1c7356705e8bc50a3871a2f2c6f108ade16932df2b706a",
+  "macro_metrics.csv": "0c364cc5f727806be700fdfb5418c4351dfb20a041a4502832e2e8ba70b45248",
+  "portfolio_changes.csv": "42fa656af3668e8e000385dd347806a3172584fbbe5fb7b023c35b36563e4d41",
+  "portfolio_holdings.csv": "de42cb1225eb717b569a1dfd408a68532e873b639ba36583a3d1c9694d2cdca3",
+  "portfolio_performance.csv": "30899262a09b471732c7845f4e5b45b44f93ff9f2d033ace38570549521bbda9",
+  "quality_report.md": "425050fa2fe9cd589887bbeb0b0a1e1ac5b2a70dcfed913ac8726b9f0724b431",
+  "research_notes.jsonl": "c1abba06e92b80b7c55f877191c98ab436b0becd4c2739aa66dc48556648ce42",
+  "sources.csv": "fd4ff9ab537cc4a6c494812d4b25e7dac355b22fd6203a08b0a93ea7f0c2250f",
+  "training_dataset.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

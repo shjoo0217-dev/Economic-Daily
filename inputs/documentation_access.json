@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://apiportal.koreainvestment.com/intro",
+    "http_status": 200,
+    "bytes": 108052,
+    "collected_at": "2026-11-16T16:39:07.801648+00:00",
+    "final_url": "https://apiportal.koreainvestment.com/intro",
+    "scope": "documentation_only"
+  },
+  {
+    "url": "https://opendart.fss.or.kr/intro/main.do",
+    "http_status": 200,
+    "bytes": 21459,
+    "collected_at": "2026-11-16T16:39:10.283482+00:00",
+    "final_url": "https://opendart.fss.or.kr/intro/main.do",
+    "scope": "documentation_only"
+  },
+  {
+    "url": "https://fred.stlouisfed.org/docs/api/fred/",
+    "http_status": 200,
+    "bytes": 37191,
+    "collected_at": "2026-11-16T16:39:10.730598+00:00",
+    "final_url": "https://fred.stlouisfed.org/docs/api/fred/",
+    "scope": "documentation_only"
+  },
+  {
+    "url": "https://fred.stlouisfed.org/docs/api/fred/realtime_period.html",
+    "http_status": 200,
+    "bytes": 34555,
+    "collected_at": "2026-11-16T16:39:11.123963+00:00",
+    "final_url": "https://fred.stlouisfed.org/docs/api/fred/realtime_period.html",
+    "scope": "documentation_only"
+  }
+]

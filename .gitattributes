@@ -1,0 +1,3 @@
+# Preserve RFC 4180 CSV bytes and accept their CRLF row terminators.
+*.csv -text whitespace=cr-at-eol
+*.zip binary

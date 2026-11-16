@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "checks": 14192,
+  "record_counts": {
+    "sources.csv": 18,
+    "industry_metrics.csv": 59,
+    "macro_metrics.csv": 40,
+    "portfolio_holdings.csv": 40,
+    "portfolio_performance.csv": 9,
+    "portfolio_changes.csv": 39,
+    "research_notes.jsonl": 18,
+    "training_dataset.jsonl": 0,
+    "excluded_records.jsonl": 18
+  },
+  "duplicate_keys": 0,
+  "schema_errors": 0,
+  "foreign_key_errors": 0,
+  "invalid_dates": 0,
+  "unit_conversion_errors": 0,
+  "external_numeric_truth_validated": false,
+  "historical_backtest_eligible_records": 0,
+  "training_samples": 0
+}

@@ -1,0 +1,72 @@
+{
+  "zip": "glif_investment_dataset_2026-11-17.zip",
+  "zip_sha256": "aa58326d3bcd6fa3d37555458f3e8b471845a69c58c113f92a8ef33ceebec0c1",
+  "zip_bytes": 69496,
+  "files": [
+    {
+      "name": "CODEX_CONTEXT.md",
+      "bytes": 10498,
+      "sha256": "786bded5d1b4d7f29eef05c08360d4b22e34f47ffa4d25bf63a3724a03070edf"
+    },
+    {
+      "name": "README.md",
+      "bytes": 8351,
+      "sha256": "08bd1f91fda3585434a4129ac250ba4518d0df921b0c2c63c52555e952916c85"
+    },
+    {
+      "name": "data_dictionary.json",
+      "bytes": 136988,
+      "sha256": "24921d98c52b6b15e8894218ada9840f0b18f6b629659d6858a502445b5b65ef"
+    },
+    {
+      "name": "excluded_records.jsonl",
+      "bytes": 38090,
+      "sha256": "af333d25b2489b18427c0fe41edf0dd8e08ba7cfb2e11d3278877cf17be1f70d"
+    },
+    {
+      "name": "industry_metrics.csv",
+      "bytes": 40274,
+      "sha256": "a6c4f7ce1f63b3f54e1c7356705e8bc50a3871a2f2c6f108ade16932df2b706a"
+    },
+    {
+      "name": "macro_metrics.csv",
+      "bytes": 21566,
+      "sha256": "0c364cc5f727806be700fdfb5418c4351dfb20a041a4502832e2e8ba70b45248"
+    },
+    {
+      "name": "portfolio_changes.csv",
+      "bytes": 27454,
+      "sha256": "42fa656af3668e8e000385dd347806a3172584fbbe5fb7b023c35b36563e4d41"
+    },
+    {
+      "name": "portfolio_holdings.csv",
+      "bytes": 41230,
+      "sha256": "de42cb1225eb717b569a1dfd408a68532e873b639ba36583a3d1c9694d2cdca3"
+    },
+    {
+      "name": "portfolio_performance.csv",
+      "bytes": 5466,
+      "sha256": "30899262a09b471732c7845f4e5b45b44f93ff9f2d033ace38570549521bbda9"
+    },
+    {
+      "name": "quality_report.md",
+      "bytes": 21003,
+      "sha256": "425050fa2fe9cd589887bbeb0b0a1e1ac5b2a70dcfed913ac8726b9f0724b431"
+    },
+    {
+      "name": "research_notes.jsonl",
+      "bytes": 20687,
+      "sha256": "c1abba06e92b80b7c55f877191c98ab436b0becd4c2739aa66dc48556648ce42"
+    },
+    {
+      "name": "sources.csv",
+      "bytes": 95836,
+      "sha256": "fd4ff9ab537cc4a6c494812d4b25e7dac355b22fd6203a08b0a93ea7f0c2250f"
+    },
+    {
+      "name": "training_dataset.jsonl",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}

@@ -1,0 +1,4293 @@
+{
+  "captured_at": "2026-11-16T16:34:01+00:00",
+  "listing_url": "https://glifskku.com/projects.html",
+  "listing_sha256": "fd93d9d38a46f8d2fc004a79d099ebe356afb79c160c07f845df572910d18527",
+  "listing_response_headers": {
+    "server": "envoy",
+    "content-type": "text/html; charset=utf-8",
+    "last-modified": "Thu, 12 Nov 2026 11:36:36 GMT",
+    "access-control-allow-origin": "*",
+    "etag": "\"6af5a4c4-22ba\"",
+    "expires": "Mon, 16 Nov 2026 16:29:25 GMT",
+    "cache-control": "max-age=600",
+    "x-proxy-cache": "MISS",
+    "x-github-request-id": "2762:274F8:B1A8C:BF5E3:6AFB2D0D",
+    "x-github-edge-region": "iad",
+    "accept-ranges": "bytes",
+    "date": "Mon, 16 Nov 2026 16:34:01 GMT",
+    "via": "1.1 varnish",
+    "age": "46",
+    "x-served-by": "cache-dfw-kdfw8210121-DFW",
+    "x-cache": "HIT",
+    "x-cache-hits": "1",
+    "x-timer": "S1794846842.565607,VS0,VE4",
+    "vary": "Accept-Encoding",
+    "x-fastly-request-id": "afd556ab9a85d43ef4124cea45661e564ad5f8de",
+    "content-length": "8890",
+    "x-envoy-upstream-service-time": "161",
+    "connection": "close"
+  },
+  "listing_status": 200,
+  "listing_final_url": "https://glifskku.com/projects.html",
+  "reports": [
+    {
+      "source_id": "glif_im_11",
+      "title": "정유 산업보고서",
+      "team": "IM팀",
+      "semester": "26-2 IM Kick-off Project",
+      "report_type": "industry",
+      "listed_publication_date": "2026-10-10",
+      "source_url": "https://glifskku.com/assets/projects/im_11_정유_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:01+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_11_%EC%A0%95%EC%9C%A0_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:03+00:00",
+      "file_sha256": "25bde91dc214ff5fc4f56b3cf2bd25efa4b99b8051c602b8170d0051184c50d9",
+      "file_size_bytes": 12627480,
+      "page_count": 39,
+      "pdf_metadata": {
+        "format": "PDF 1.4",
+        "producer": "macOS 버전 15.5(빌드 24F74) Quartz PDFContext",
+        "creationDate": "D:20261009094947Z00'00'",
+        "modDate": "D:20261009094947Z00'00'"
+      },
+      "nonempty_text_pages": 39,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "GLIF Research",
+          "source_pages": [
+            6,
+            7,
+            15,
+            16,
+            24,
+            26,
+            27,
+            32
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "수출통관자료, GLIF Research",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IEA, GLIF Research",
+          "source_pages": [
+            8,
+            15,
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "미에너지정보청, GLIF Research",
+          "source_pages": [
+            8
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "페트로넷, GLIF Research",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "S㎿OIL 증권신고서, GLIF Research",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사, GLIF Research",
+          "source_pages": [
+            10,
+            13,
+            23,
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IEA㏙Oil Market Report 2026㏚, GLIF Research",
+          "source_pages": [
+            12
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "S㖈P Global Energy, GLIF Research",
+          "source_pages": [
+            12
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "대한석유협회, GLIF Research",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Bloomberg, GLIF Research",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "미국에너지정보청, GLIF Research",
+          "source_pages": [
+            14,
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Insights Global, GLIF Research",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국화학산업협회, GLIF Research",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Platts, GLIF Research",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "S㎿OIL, GLIF Research",
+          "source_pages": [
+            20,
+            21,
+            22,
+            24,
+            36,
+            37
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Chevron Lummus Global, GLIF Research",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "국제항공운송협회, GLIF Research",
+          "source_pages": [
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IHS Markit, GLIF Research",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IEEFA, GLIF Research",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "퓨처타켓인사이드, GLIF Research",
+          "source_pages": [
+            30
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "NVIDIA, GLIF Research",
+          "source_pages": [
+            30
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IOIS, GLIF Research",
+          "source_pages": [
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SK이노베이션, GLIF Research",
+          "source_pages": [
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GS, GLIF Research",
+          "source_pages": [
+            34,
+            35
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SK 이노베이션, GLIF Research",
+          "source_pages": [
+            39
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_im_10",
+      "title": "산업용 냉각시스템 산업보고서",
+      "team": "IM팀",
+      "semester": "26-2 IM Kick-off Project",
+      "report_type": "industry",
+      "listed_publication_date": "2026-10-10",
+      "source_url": "https://glifskku.com/assets/projects/im_10_산업용냉각시스템_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:01+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_10_%EC%82%B0%EC%97%85%EC%9A%A9%EB%83%89%EA%B0%81%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:05+00:00",
+      "file_sha256": "264fb60b4f996174bcf99ea99952d6e3b72f7cd89f2b2b7e2d082e74ba8cad66",
+      "file_size_bytes": 14437588,
+      "page_count": 36,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "producer": "Microsoft® PowerPoint® Microsoft 365용",
+        "creationDate": "D:20261009192838+09'00'",
+        "modDate": "D:20261009192838+09'00'"
+      },
+      "nonempty_text_pages": 36,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "MarketsandMarkets, GLIF Research.",
+          "source_pages": [
+            4,
+            11,
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GLIF Research.",
+          "source_pages": [
+            4,
+            8,
+            9,
+            11,
+            12,
+            16,
+            17,
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Epoch AI(비영리AI 연구기관), GLIF Research.",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "TrendForce, GLIF Research.",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Vertiv, GLIF Research.",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Eaton, Ecolab, GLIF Research.",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "uptime, GLIF Research.",
+          "source_pages": [
+            8
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Morder Inteligence, GLIF Research.",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "세계일보, GLIF Research.",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "NVIDIA, Goldman Sachs, GLIF Research.",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "NVIDIA, KAIST, GLIF Research.",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "NVIDIA, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "글로벌이코노믹, TrendForce, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "동아일보, TrendForce, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Uptime Institute, GLIF Research.",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Vertiv Holdings, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Schneider Electric, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "CapMan Infra(2026.5), Fortum(2026.5), TechRadar(2026.9), GLIF Research.",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "기계설비신문, Introl, GLIF Research.",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "PwC, GLIF Research.",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IEEE, GLIF Research.",
+          "source_pages": [
+            23
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Siemens, The True Cost of Downtime 2024, GLIF Research.",
+          "source_pages": [
+            23
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Grand View Research, Persistence Market Research,",
+          "source_pages": [
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "삼일PwC경영연구원, GLIF Research.",
+          "source_pages": [
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "관계부처합동(2026.06.29), GLIF Research.",
+          "source_pages": [
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "TrendForce, GLIF Research",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Grand View Research, GLIF Research.",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "독일EnEfG, 싱가포르IMDA, 중국국가발전개혁위원회,",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "독일EnEfG, 싱가포르IMDA, 중국국가발전개혁위원회, GLIF Research.",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IBK투자증권, GLIF Research.",
+          "source_pages": [
+            29
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "LG전자, GLIF Research.",
+          "source_pages": [
+            29
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GST, GLIF Research.",
+          "source_pages": [
+            30
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "신성이엔지분기·반기·사업보고서, GLIF Research.",
+          "source_pages": [
+            30
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_im_09",
+      "title": "조선 산업보고서",
+      "team": "IM팀",
+      "semester": "26-1 IM Kick-off Project",
+      "report_type": "industry",
+      "listed_publication_date": "2026-04-10",
+      "source_url": "https://glifskku.com/assets/projects/im_09_조선_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:01+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_09_%EC%A1%B0%EC%84%A0_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:03+00:00",
+      "file_sha256": "8d33f178db5e05fd8f0219608a7486bbaa6d2889058506fcebfa0e287799d1cb",
+      "file_size_bytes": 5673937,
+      "page_count": 36,
+      "pdf_metadata": {
+        "format": "PDF 1.4",
+        "producer": "macOS Version 26.3.1 (Build 25D2128) Quartz PDFContext",
+        "creationDate": "D:20260410100018Z00'00'",
+        "modDate": "D:20260410100018Z00'00'"
+      },
+      "nonempty_text_pages": 36,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "GLIF Research",
+          "source_pages": [
+            5,
+            6,
+            13,
+            22,
+            23,
+            29,
+            31,
+            35
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Clarksons, World bank, Bloomberg, GLIF Research",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Clarksons, GLIF Research",
+          "source_pages": [
+            8,
+            11,
+            13,
+            14,
+            15,
+            16,
+            23,
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Shell, GLIF Research",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "European Commission, GLIF Research",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GTT, GLIF Research",
+          "source_pages": [
+            11
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "삼성중공업, GLIF Research",
+          "source_pages": [
+            12,
+            32
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Wärtslä, GLIF Research,",
+          "source_pages": [
+            12
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "EIA, GLIF Research",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Clarksons, GLIF, Research",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "CCEC, Poten, GLIF Research",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GLIF Research,",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Clarkson, GLIF Research",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "CBS, GLIF Research",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "WSJ, GLIF Research",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "White House, GLIF Research",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론종합, GLIF Research",
+          "source_pages": [
+            22,
+            36
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "HD현대중공업IR, GLIF Research",
+          "source_pages": [
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "HD현대중공업, GLIF Research",
+          "source_pages": [
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "HJ중공업, GLIF Research",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "대한조선, GLIF Research",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Global Ship Lease, GLIF Research",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한화오션, 언론종합, GLIF Research",
+          "source_pages": [
+            33
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한화오션, GLIF Research",
+          "source_pages": [
+            34
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Janes, 한화오션, GLIF Research",
+          "source_pages": [
+            34
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Clarksons, Okeanis Eco Tankers, GLIF Research",
+          "source_pages": [
+            35
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_im_08",
+      "title": "전력인프라 산업보고서",
+      "team": "IM팀",
+      "semester": "26-1 IM Kick-off Project",
+      "report_type": "industry",
+      "listed_publication_date": "2026-04-10",
+      "source_url": "https://glifskku.com/assets/projects/im_08_전력인프라_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:01+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_08_%EC%A0%84%EB%A0%A5%EC%9D%B8%ED%94%84%EB%9D%BC_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:04+00:00",
+      "file_sha256": "38b1be59843daa22858dccbf5b97158fcddd606cf7612ca68b81ba6cb9255962",
+      "file_size_bytes": 10411985,
+      "page_count": 40,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "producer": "Microsoft® PowerPoint® for Microsoft 365",
+        "creationDate": "D:20260411161354+02'00'",
+        "modDate": "D:20260411161354+02'00'"
+      },
+      "nonempty_text_pages": 40,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "IEA, 유안타증권리서치센터, GLIF Research.",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Statista, GLIF Research.",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GLIF Research.",
+          "source_pages": [
+            5,
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "연합뉴스, GLIF Research.",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "The White House, GLIF Research.",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Ember, 교보증권리서치센터, GLIF Research.",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "BNEF, 교보증권리서치센터, GLIF Research.",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "fortunebusinessinsight, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업통상자원부, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Global Market Insights, 신한투자증권, GLIF Research.",
+          "source_pages": [
+            8
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "유안타증권리서치센터.",
+          "source_pages": [
+            9
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "LBNL, 유진투자증권, GLIF Research.",
+          "source_pages": [
+            9
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IEA, GLIF Research.",
+          "source_pages": [
+            9
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "삼정KPMG 경제연구원, GLIF Research.",
+          "source_pages": [
+            12
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "동아사이언스, GLIF Research.",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "대신증권, GLIF Research.",
+          "source_pages": [
+            13,
+            14,
+            23
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "키움증권, GLIF Research.",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "MarketandMarkets Analysis, GLIF Research.",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "딜사이트, GLIF Research.",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "전기신문, GLIF Research.",
+          "source_pages": [
+            16,
+            23
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SK증권, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "유안타증권, GLIF Research.",
+          "source_pages": [
+            17,
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "메리츠증권, GLIF Research.",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "NVDIA, 메리츠증권리서치센터, GLIF Research.",
+          "source_pages": [
+            19,
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "EU Climate Action, GLIF Research.",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "ABB News Center, GLIF Research.",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "자료:IEA,IEA,PwC,PwC GLIFGLIF Research.Research.",
+          "source_pages": [
+            25
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "USITC, 유안타증권리서치센터, GLIF Research.",
+          "source_pages": [
+            25
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Mordor Intelligence, GLIF Research.",
+          "source_pages": [
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "European Commission, 유안타증권리서치센터, GLIF Research.",
+          "source_pages": [
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Ember(2025.5.15.), GLIF Research.",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "중앙일보, GLIF Research.",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "아이뉴스, 연합뉴스, GLIF Research.",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사, GLIF Research.",
+          "source_pages": [
+            29
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사, 중앙일보, GLIF Research.",
+          "source_pages": [
+            29
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Bloom Energy, 유안타증권리서치센터, GLIF Research.",
+          "source_pages": [
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업자료, 유안타증권리서치센터, GLIF Research.",
+          "source_pages": [
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Morgan Stanley, GLIF Research.",
+          "source_pages": [
+            32
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "금융감독원전자공시시스템, GLIF Research.",
+          "source_pages": [
+            32
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Investing.com, GLIF Research.",
+          "source_pages": [
+            33
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사실적발표, GLIF Research.",
+          "source_pages": [
+            33
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사, SK 증권, GLIF Research.",
+          "source_pages": [
+            34
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_im_07",
+      "title": "제약&바이오 산업보고서",
+      "team": "IM팀",
+      "semester": "Winter Vacation Study",
+      "report_type": "industry",
+      "listed_publication_date": "2026-01-31",
+      "source_url": "https://glifskku.com/assets/projects/im_07_제약바이오_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:03+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_07_%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:05+00:00",
+      "file_sha256": "e5569f5225a9c0ddd9bc615d7173d3a5c89b8822275c24bfcbd2425eeb3e352b",
+      "file_size_bytes": 7679547,
+      "page_count": 43,
+      "pdf_metadata": {
+        "format": "PDF 1.4",
+        "producer": "macOS Version 26.2 (Build 25C56) Quartz PDFContext",
+        "creationDate": "D:20260208065312Z00'00'",
+        "modDate": "D:20260208065312Z00'00'"
+      },
+      "nonempty_text_pages": 43,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "GLIF Research, 언론종합",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GLIF Research",
+          "source_pages": [
+            5,
+            7,
+            11,
+            16,
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "NCD Risk Factor Collaboration(2017), UN Population Division and",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Bloomberg Consensus",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IQVIA(2025)",
+          "source_pages": [
+            10,
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사, Clinical Trials",
+          "source_pages": [
+            12,
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사, Clinical Trials(2026.01.05)",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사, GLIF Research",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Globaldata, GLIF Research",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "BMC, GLIF Research",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Antibody-Drug Conjugate Overview: a State-of-the-art Manufacturing Process and Control Strategy (2024)",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "AstraZeneca, GLIF Research",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "ILCS 2025, GLIF Research",
+          "source_pages": [
+            23,
+            29,
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "OncologyPipeline, GLIF Research",
+          "source_pages": [
+            23
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Mordor Intelligence",
+          "source_pages": [
+            29
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Lonza internal analysis, IQVIA, Evaluate, Citeline, publicly announced",
+          "source_pages": [
+            29
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Wuxi Biologics, GLIF Research",
+          "source_pages": [
+            30
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Roland Burger, CMS",
+          "source_pages": [
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IQVIA, GLIF Research",
+          "source_pages": [
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "FDA, Pink Sheet, GLIF Research",
+          "source_pages": [
+            33
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론종합, GLIF Research",
+          "source_pages": [
+            33
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_im_06",
+      "title": "위성 산업보고서",
+      "team": "IM팀",
+      "semester": "Winter Vacation Study",
+      "report_type": "industry",
+      "listed_publication_date": "2026-01-31",
+      "source_url": "https://glifskku.com/assets/projects/im_06_위성_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:03+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_06_%EC%9C%84%EC%84%B1_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:06+00:00",
+      "file_sha256": "31d11963996dccfd9256d1ef5f83c1367f51e1b54227fe25658433e6f853dd9e",
+      "file_size_bytes": 10018004,
+      "page_count": 33,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "producer": "Microsoft® PowerPoint® for Microsoft 365",
+        "creationDate": "D:20260204062855+01'00'",
+        "modDate": "D:20260204062855+01'00'"
+      },
+      "nonempty_text_pages": 33,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "세계일보, GLIF Research.",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "스페이스X (Space X), GLIF Research.",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SIA(Satellite Industry Association), GLIF Research.",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Ill-Defined Space, GLIF Research.",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Our World in Data, Space X, Statista, GLIF Research.",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Government of Canada, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Alen Space, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Fortune Business Insights, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "중앙일보, GLIF Research.",
+          "source_pages": [
+            9
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "ESA, GLIF Research.",
+          "source_pages": [
+            9
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GAO(United States Government Accountability Office, GLIF Research.",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GAO(United States Government Accountability Office, GLIF",
+          "source_pages": [
+            11
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "연합뉴스, GLIF Research.",
+          "source_pages": [
+            12
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "중국항천국, GLIF Research.",
+          "source_pages": [
+            12
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Jonathan’s Space Report, ITU, GLIF Research. 참고: 2025년12월기준.",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Nihao Taikong, GLIF Research.",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "유진투자증권, GLIF Research.",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "MoneyToday News, GLIF Research.",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Seoul Economic Daily, GLIF Research.",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "HYUNDAI GLOVIS, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "HANJIN GROUP, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "UN Statistics Division, “Earth Observation for Official Statistics.”",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "자동화기술Automation World, GLIF Research.",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Science of the Total Environment, “Environmental Impacts of Earth Observation Data in the Constellation and Cloud Computing Era,” GLIF Research.",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SIPRI (스톡홀름국제평화연구소) 보고서, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "AFP 연합뉴스, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Oxford University 바이오사이언스연구, 중앙일보, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "European Geosciences Union, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "UN 식량농업기구(FAO), Cnews, GLIF Reseaerch.",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Geoscience Solución Ingenieril, GLIF Research.",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "USDA, GLIF Research.",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "국제에너지기구(IEA), 국민일보, GLIF Research.",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "MBC Newsdesk, GLIF Research",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "국제에너지기구(IEA), GLIF Research.",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "NTT, 아시아경제, GLIF Research.",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Starcloud, MIRAKLEAI, GLIF Research.",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "국민일보, GLIF Research.",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GLIF Research",
+          "source_pages": [
+            24,
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "OECD, GLIF Research",
+          "source_pages": [
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Prudence Research, GLIF Research",
+          "source_pages": [
+            25
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Mirae Asset Securities Research, GLIF Research",
+          "source_pages": [
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_im_05",
+      "title": "방산 산업보고서",
+      "team": "IM팀",
+      "semester": "25-2 IM Kick-off Project",
+      "report_type": "industry",
+      "listed_publication_date": "2025-10-10",
+      "source_url": "https://glifskku.com/assets/projects/im_05_방산_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:04+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_05_%EB%B0%A9%EC%82%B0_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:06+00:00",
+      "file_sha256": "74150bb116ffdbcf32b930c0a64bcefaff988a619b24431b45950f8ea895d9f4",
+      "file_size_bytes": 8579239,
+      "page_count": 34,
+      "pdf_metadata": {
+        "format": "PDF 1.4",
+        "producer": "macOS 버전 14.4(빌드 23E214) Quartz PDFContext",
+        "creationDate": "D:20251012055743Z00'00'",
+        "modDate": "D:20251012055743Z00'00'"
+      },
+      "nonempty_text_pages": 34,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "산업자료, GLIF Research.",
+          "source_pages": [
+            5,
+            7,
+            10,
+            22,
+            23,
+            30
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "KDI, 공정거래위원회, GLIF Research.",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론종합, GLIF Research.",
+          "source_pages": [
+            6,
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SIPRI, GLIF Research.",
+          "source_pages": [
+            10,
+            12,
+            13,
+            14,
+            22,
+            25,
+            32
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Mordor Intelligence, GLIF Research.",
+          "source_pages": [
+            12
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "ORYX, 산업자료, GLIF Research.",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "ORYX, 언론종합, GLIF Research.",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국국방기술학회, GLIF Research.",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국국방안보포럼,현대로템, GLIF Research.",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SIPRI, 산업자료, GLIF Research.",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Lockheed Martin, Elbit Systems, 한화에어로스페이스, 언론",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한화에어로스페이스, GLIF Research.",
+          "source_pages": [
+            16,
+            27,
+            30
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Acled, 산업자료, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "국방품질기술원, 산업자료, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "U.S. Department of State, GLIF Research.",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "국방품질기술원, GLIF Research.",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "드론봇전투체계발전방안연구, 2021, 한국드론혁신협회, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Military Drones Market, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Dart, GLIF Research.",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "국방부, 산업자료, GLIF Research.",
+          "source_pages": [
+            23
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국항공우주, GLIF Research.",
+          "source_pages": [
+            24,
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "DART, GLIF Research.",
+          "source_pages": [
+            25,
+            33
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Statista, Drone Industry Insight, Levitate, Precedence Research,",
+          "source_pages": [
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "국방부, GLIF Research.",
+          "source_pages": [
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "풍산, 산업자료, GLIF Research.",
+          "source_pages": [
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "풍산, GLIF Research.",
+          "source_pages": [
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Bloomberg, GLIF Research.",
+          "source_pages": [
+            32
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "LIG넥스원, GLIF Research.",
+          "source_pages": [
+            33,
+            34
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "고스트로보틱스, GLIF Research.",
+          "source_pages": [
+            34
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_im_04",
+      "title": "화장품 산업보고서",
+      "team": "IM팀",
+      "semester": "25-2 IM Kick-off Project",
+      "report_type": "industry",
+      "listed_publication_date": "2025-10-10",
+      "source_url": "https://glifskku.com/assets/projects/im_04_화장품_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:05+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_04_%ED%99%94%EC%9E%A5%ED%92%88_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:11+00:00",
+      "file_sha256": "2e66edc92e4d7c8d5c224a79c7f1ac79fdc88ed4d68ce5d9896965a7098cd648",
+      "file_size_bytes": 7124408,
+      "page_count": 34,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "producer": "Microsoft® PowerPoint® Microsoft 365용",
+        "creationDate": "D:20251012134129+09'00'",
+        "modDate": "D:20251012134129+09'00'"
+      },
+      "nonempty_text_pages": 34,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "Google Trends, GLIF Research.",
+          "source_pages": [
+            4,
+            8,
+            11
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Google Trends, GLIF Research",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "McKinsey, GLIF Research.",
+          "source_pages": [
+            4,
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "LendingTree, GLIF Research.",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Google Trends, 삼성증권",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "메디큐브공식홈페이지.",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Euromonitor, GLIF Research.",
+          "source_pages": [
+            6,
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Skin Research and Technology Volume 24, GLIF Research.",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "BNT News, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "삼성증권, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Standard Insights 설문조사, GLIF Research.",
+          "source_pages": [
+            8
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Sephora, 삼성증권, GLIF Research.",
+          "source_pages": [
+            8
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Billboard HOT 100",
+          "source_pages": [
+            9
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국리서치",
+          "source_pages": [
+            9
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Stastista.",
+          "source_pages": [
+            11
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Sephora, GLIF Research.",
+          "source_pages": [
+            11
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업자료, GLIF Research.",
+          "source_pages": [
+            12
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SK 증권, GLIF Research.",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "N페이 증권, GLIF Research.",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "신한투자증권, GLIF Research.",
+          "source_pages": [
+            15,
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국무역통계진흥원, GLIF Research.",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국무역통계정보포털, GLIF Research.",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "KOTRA, GLIF Research.",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Tiktok, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "현대차증권, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Trass, GLIF Research.",
+          "source_pages": [
+            20,
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "미래에셋증권재인용, GLIF Research.",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "유안타증권재인용, GLIF Research.",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "맥켄지리서치, GLIF Research.",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Boots.com GLIF Research.",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론자료, GLIF Research.",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Boots.com, Douglas.de, Sephora.fr, GLIF Research.",
+          "source_pages": [
+            23
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Sephora.me, GLIF Research.",
+          "source_pages": [
+            25
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국관광공사, GLIF Research",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "메리츠증권재인용, GLIF Research.",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "글로벌텍스프리, GLIF Research.",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_im_03",
+      "title": "HBM 산업보고서",
+      "team": "IM팀",
+      "semester": "Summer Vacation Study",
+      "report_type": "industry",
+      "listed_publication_date": "2025-08-14",
+      "source_url": "https://glifskku.com/assets/projects/im_03_HBM_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:05+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_03_HBM_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:07+00:00",
+      "file_sha256": "741fdc8adae5abfb4606fa0812d63210ab7a879ae972a48567aae722d8869f69",
+      "file_size_bytes": 10174765,
+      "page_count": 32,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "producer": "Microsoft® PowerPoint® Microsoft 365용",
+        "creationDate": "D:20250917184758+09'00'",
+        "modDate": "D:20250917184758+09'00'"
+      },
+      "nonempty_text_pages": 32,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "Dataguide, GLIF Research.",
+          "source_pages": [
+            4,
+            17,
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업자료, 각사, GLIF Research.",
+          "source_pages": [
+            4,
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업자료, Dataguide(주성엔지니어링, 유진테크, 테스, 파크시스템스, 넥스틴, 에스티아이, 피에스케이홀딩스, ISC 외8개기업시총합산), GLIF Research.",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SEMI Korea, GLIF Research.",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국은행, GLIF Research.",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Marvell, GLIF Research.",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Marvell, Dell’Oro 재인용, Bloomberg, 흥국증권, GLIF Research.",
+          "source_pages": [
+            6,
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업자료, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Investing, GLIF Research.",
+          "source_pages": [
+            9
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "자료:키움증권,흥국증권,GLIFGLIFResearch.Research.",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "흥국증권, GLIF Research.",
+          "source_pages": [
+            10,
+            19,
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "LS증권, GLIF Research.",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Trendforce, GLIF Research.",
+          "source_pages": [
+            10,
+            11
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론자료, GLIF Research",
+          "source_pages": [
+            12
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "TrendForce, GLIF Research.",
+          "source_pages": [
+            12,
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Quantwize, GLIF Research.",
+          "source_pages": [
+            13,
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "흥국증권, Glif Research.",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Bloomberg, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론보도, GLIF Research.",
+          "source_pages": [
+            18,
+            21,
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론보도, GLIF Research",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "머니투데이기사보도, GLIF Research.",
+          "source_pages": [
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Trend Report, GLIF Research.",
+          "source_pages": [
+            25
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "매일경제, GLIF Research.",
+          "source_pages": [
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_im_02",
+      "title": "원자력 산업보고서",
+      "team": "IM팀",
+      "semester": "25-1 IM Kick-off Project",
+      "report_type": "industry",
+      "listed_publication_date": "2025-04-11",
+      "source_url": "https://glifskku.com/assets/projects/im_02_원자력_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:06+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_02_%EC%9B%90%EC%9E%90%EB%A0%A5_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:08+00:00",
+      "file_sha256": "dcd3d85366a6d69fb16d15b72d937cb44852787b1eae032c5f6ff178797f0847",
+      "file_size_bytes": 6953196,
+      "page_count": 34,
+      "pdf_metadata": {
+        "format": "PDF 1.6",
+        "producer": "macOS 버전 14.4.1(빌드 23E224) Quartz PDFContext",
+        "creationDate": "D:20250411095315Z",
+        "modDate": "D:20250818120930Z"
+      },
+      "nonempty_text_pages": 34,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "한전 원자력 연료",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "에너지 단열 경제",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국 원자력 학회",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IAEA",
+          "source_pages": [
+            5,
+            15,
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한전원자력연료",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "PJM Interconnection",
+          "source_pages": [
+            8
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Microsoft, Google",
+          "source_pages": [
+            8
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IEA, PwC",
+          "source_pages": [
+            9
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Amazon, Microsoft, Google, Meta",
+          "source_pages": [
+            9
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IEA",
+          "source_pages": [
+            10,
+            12,
+            14,
+            16,
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IAEA, 주 : 이자율 7㚠 가정",
+          "source_pages": [
+            11
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "국회예산처",
+          "source_pages": [
+            11
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Euromonitor International",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "S㖈P Global",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국에너지기술연구원",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IAEA 0.5342924323045094, 1.6403417028650824",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "DOE, KISTEP 0.9104175095998961, 1.859532334282508",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IDTechEx 0.9104175095998961,",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "1.859532334282508한국원자력연구원",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국수력원자력,한국원자력연구원",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "두산에너빌리티",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국원자력연구원",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론종합",
+          "source_pages": [
+            19,
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론 종합",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "과학기술정보통신부",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국수력원자력",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "유안타증권",
+          "source_pages": [
+            22
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업통상자원부, 동아일보",
+          "source_pages": [
+            23
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IAEA, WNA, 산업종합, 한국투자증권",
+          "source_pages": [
+            23
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "미국 원자력규제위원회㏙USNRC㏚",
+          "source_pages": [
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "WNSR, IAEA PARIS, 대신증권",
+          "source_pages": [
+            25
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "NEWSIS",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "KISTEP",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Quantiwise",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GLIF",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Dart",
+          "source_pages": [
+            32,
+            34
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "대신증권",
+          "source_pages": [
+            32,
+            34
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_im_01",
+      "title": "로봇 산업보고서",
+      "team": "IM팀",
+      "semester": "25-1 IM Kick-off Project",
+      "report_type": "industry",
+      "listed_publication_date": "2025-04-11",
+      "source_url": "https://glifskku.com/assets/projects/im_01_로봇_산업보고서.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:06+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/im_01_%EB%A1%9C%EB%B4%87_%EC%82%B0%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:08+00:00",
+      "file_sha256": "8e8b6de38d92977a1bbcf9534f6c246feed9834d5653b5c6125877fd7231b89e",
+      "file_size_bytes": 9879312,
+      "page_count": 67,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "producer": "Microsoft® PowerPoint® Microsoft 365용",
+        "creationDate": "D:20250810054946+09'00'",
+        "modDate": "D:20250810054946+09'00'"
+      },
+      "nonempty_text_pages": 67,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "Tax Foundation, GLIF Research.",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Investing.com, GLIF Research.",
+          "source_pages": [
+            4
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업자료, GLIF Research.",
+          "source_pages": [
+            5,
+            9,
+            10,
+            14,
+            16,
+            17,
+            21,
+            24,
+            34,
+            45,
+            48,
+            61
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Worldbank, GLIF Research.",
+          "source_pages": [
+            5,
+            11,
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "FRED, GLIF Research.",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Fred, GLIF Research.",
+          "source_pages": [
+            5
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론자료, GLIF Research.",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "World Bank CEIC, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Kearney, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Wind, GLIF Research.",
+          "source_pages": [
+            7
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Reshoring Initiatve, GLIF Research",
+          "source_pages": [
+            8
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Reshoring Initiative, GLIF Research.",
+          "source_pages": [
+            8
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Factset, GLIF Research.",
+          "source_pages": [
+            9,
+            32
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Clearly Payment, GLIF Research.",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업자료 , GLIF Research.",
+          "source_pages": [
+            10
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Google, GLIF Research.",
+          "source_pages": [
+            11
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "World population review, GLIF Research.",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "BEA, GLIF Research.",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Bureau of Economic Analysis, World Bank, GLIF Research.",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "중국국가통계국, GLIF Research.",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "National Bureau of Statistics, GLIF Research.",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Li & Fung Research Centre; The Beijing Axis Analysis, GLIF",
+          "source_pages": [
+            14
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "중국제조의이해(황군혜저), GLIF Research.",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "CSET, GLIF Research.",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Nature, GLIF Research.",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Bloomberg, GLIF Research.",
+          "source_pages": [
+            16,
+            30,
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SNE Research Estimate, 2025, GLIF Research.",
+          "source_pages": [
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "클라크슨리서치, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "European Commission, GLIF Research.",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Wind, KB증권, GLIF Research.",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "한국로봇산업진흥원, GLIF Research.",
+          "source_pages": [
+            19
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "MIR Databank, GLIF Research.",
+          "source_pages": [
+            20,
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "전망산업연구원, GLIF Research.",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "KITA, GLIF Research.",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "precedence research, GLIF Research.",
+          "source_pages": [
+            23,
+            36,
+            40
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "BLS, Qviro, GLIF Research.",
+          "source_pages": [
+            23,
+            36,
+            40
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "IFR, GLIF Research.",
+          "source_pages": [
+            24
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "언론, GLIF Research.",
+          "source_pages": [
+            25,
+            26,
+            42
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Markets and Markets 2023, GLIF Research.",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "전망산업연구원, KB증권(2022년), GLIF Research.",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Senate Democrats, KB 증권, GLIF Research.",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "KOTRA, GLIF Research.",
+          "source_pages": [
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GLIF Research.",
+          "source_pages": [
+            29,
+            33,
+            37,
+            40,
+            41,
+            47,
+            52,
+            58,
+            59,
+            60,
+            61
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업정보, GLIF Research",
+          "source_pages": [
+            29
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Treasury Department, GLIF Research.",
+          "source_pages": [
+            30
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Census, GLIF Research.",
+          "source_pages": [
+            30,
+            33
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "ISM, Fred, GLIF Research.",
+          "source_pages": [
+            32
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "산업정보, GLIF Research.",
+          "source_pages": [
+            34
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "<정용복, 협동로봇의현황과전망>, GLIF Research.",
+          "source_pages": [
+            36,
+            57
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Google.",
+          "source_pages": [
+            37
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "CB Insights, GLIF Research.",
+          "source_pages": [
+            38
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사, 언론, GLIF Research.",
+          "source_pages": [
+            38
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사, GLIF Research.",
+          "source_pages": [
+            39,
+            46
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Macquire, Deliote, Technavio, GLIF Research.",
+          "source_pages": [
+            41,
+            42
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Berkshire Grey, GLIF Research.",
+          "source_pages": [
+            42
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "CITIC(중신증권).",
+          "source_pages": [
+            43
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Tesla, GLIF Research.",
+          "source_pages": [
+            43,
+            49
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "정부홈페이지, GLIF Research.",
+          "source_pages": [
+            44
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "각사공시, GLIF Research.",
+          "source_pages": [
+            45
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Google Patents, GLIF Research.",
+          "source_pages": [
+            45
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "arXiv, GLIF Research.",
+          "source_pages": [
+            49
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Australian Strategic Policy Institute, GLIF Research.",
+          "source_pages": [
+            52
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Allied Market Research, GLIF Research.",
+          "source_pages": [
+            52
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "SPC Samarion Hicks/U.S. Army, GLIF Research",
+          "source_pages": [
+            53
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Bloomberg, GLIF Research",
+          "source_pages": [
+            53
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "CCTV, GLIF Research.",
+          "source_pages": [
+            54
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "C114, GLIF Research.",
+          "source_pages": [
+            54
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Google Image, GLIF Research.",
+          "source_pages": [
+            55
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Global Market Insights, GLIF Research.",
+          "source_pages": [
+            55
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Wise Guys Reports, GLIF Research.",
+          "source_pages": [
+            55
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "레인보우로보틱스, GLIF Research.",
+          "source_pages": [
+            58
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "로보티즈, GLIF Research.",
+          "source_pages": [
+            58
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Hellot, GLIF Research.",
+          "source_pages": [
+            59
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "하이투자증권, GLIF Research.",
+          "source_pages": [
+            59
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Parker Hannifin, GLIF Research.",
+          "source_pages": [
+            60
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "DXMC, GLIF Research.",
+          "source_pages": [
+            60
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_am_07",
+      "title": "Market View",
+      "team": "자산운용팀",
+      "semester": "26-2 자산운용팀 Kick-off Project",
+      "report_type": "market_view",
+      "listed_publication_date": "2026-10-10",
+      "source_url": "https://glifskku.com/assets/projects/am_07_Market_View_26-2.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:07+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/am_07_Market_View_26-2.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:08+00:00",
+      "file_sha256": "54a38811af1573c797c9ef1da290a51cd6d7447b10dc27801d52e72277923e6c",
+      "file_size_bytes": 1578491,
+      "page_count": 48,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "producer": "Microsoft® PowerPoint® Microsoft 365용",
+        "creationDate": "D:20261011144157+09'00'",
+        "modDate": "D:20261011144157+09'00'"
+      },
+      "nonempty_text_pages": 47,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "FRED, Federal Reserve Bank of St. Louis",
+          "source_pages": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            16,
+            21,
+            22,
+            23,
+            24,
+            30,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Federal Reserve Bank of New York, Quarterly Report on Household Debt and Credit",
+          "source_pages": [
+            10,
+            11
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Federal Reserve Board, April 2026 SLOOS",
+          "source_pages": [
+            13
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "investing.com",
+          "source_pages": [
+            15
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "U.S. Bureau of Labor Statistics",
+          "source_pages": [
+            17
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Investing.com",
+          "source_pages": [
+            18
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Investing.com; FRED, Federal Reserve Bank of St. Louis",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Federal Reserve Board; U.S. BEA; U.S. EIA; U.S. Bureau of Labor Statistics",
+          "source_pages": [
+            23
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Federal Reserve Board, FOMC Statements",
+          "source_pages": [
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Federal Reserve Board, Summary of Economic Projections",
+          "source_pages": [
+            27,
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_am_06",
+      "title": "Global Asset Allocation",
+      "team": "자산운용팀",
+      "semester": "26-1 자산운용팀 Main Project",
+      "report_type": "gaa",
+      "listed_publication_date": "2026-06-05",
+      "source_url": "https://glifskku.com/assets/projects/am_06_GAA_26-1.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:08+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/am_06_GAA_26-1.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:10+00:00",
+      "file_sha256": "62ebc5f7cde0802aa1ef52232785e93cde8bbf76cf7a75947bc28f08a7083b11",
+      "file_size_bytes": 3705241,
+      "page_count": 82,
+      "pdf_metadata": {
+        "format": "PDF 1.5",
+        "producer": "Microsoft® PowerPoint® 2016",
+        "creationDate": "D:20260605175721+09'00'",
+        "modDate": "D:20260605175721+09'00'"
+      },
+      "nonempty_text_pages": 82,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "FRED, Federal Reserve Bank of St. Louis",
+          "source_pages": [
+            4,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            21,
+            22,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            36,
+            37,
+            38,
+            39
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_am_05",
+      "title": "Market View",
+      "team": "자산운용팀",
+      "semester": "26-1 자산운용팀 Kick-off Project",
+      "report_type": "market_view",
+      "listed_publication_date": "2026-04-10",
+      "source_url": "https://glifskku.com/assets/projects/am_05_Market_View_26-1.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:08+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/am_05_Market_View_26-1.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:10+00:00",
+      "file_sha256": "639b70e425d5e49dfef7a4de3c65d9838741267a07deb79817dae88001b518f2",
+      "file_size_bytes": 1684806,
+      "page_count": 43,
+      "pdf_metadata": {
+        "format": "PDF 1.5",
+        "producer": "Microsoft® PowerPoint® 2016",
+        "creationDate": "D:20260410184231+09'00'",
+        "modDate": "D:20260410184231+09'00'"
+      },
+      "nonempty_text_pages": 43,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "FRED, Federal Reserve Bank of St. Louis",
+          "source_pages": [
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            17,
+            19,
+            22,
+            29,
+            30,
+            31,
+            32,
+            34,
+            35,
+            36,
+            38,
+            39
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "investing.com",
+          "source_pages": [
+            19,
+            26
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_am_04",
+      "title": "Global Asset Allocation",
+      "team": "자산운용팀",
+      "semester": "25-2 자산운용팀 Main Project",
+      "report_type": "gaa",
+      "listed_publication_date": "2025-12-05",
+      "source_url": "https://glifskku.com/assets/projects/am_04_GAA_25-2.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:08+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/am_04_GAA_25-2.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:12+00:00",
+      "file_sha256": "0880cd24e3a5cd57ce4a754350ca9db732e21cc90b792c0085897a41d9e5399d",
+      "file_size_bytes": 8400026,
+      "page_count": 73,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "producer": "iLovePDF",
+        "creationDate": "D:20251205161100+09'00'",
+        "modDate": "D:20260219141843Z"
+      },
+      "nonempty_text_pages": 10,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "FRED, Federal Reserve Bank of St. Louis",
+          "source_pages": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            18,
+            20,
+            22,
+            25,
+            26,
+            29,
+            30
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Federal Reserve Bank of Atlanta, Wage Growth Tracker",
+          "source_pages": [
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Securities and Exchange Commission",
+          "source_pages": [
+            41
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "OpenRouter",
+          "source_pages": [
+            41
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "JP Morgan",
+          "source_pages": [
+            71,
+            72
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_am_03",
+      "title": "Market View",
+      "team": "자산운용팀",
+      "semester": "25-2 자산운용팀 Kick-off Project",
+      "report_type": "market_view",
+      "listed_publication_date": "2025-10-10",
+      "source_url": "https://glifskku.com/assets/projects/am_03_Market_View_25-2.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:10+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/am_03_Market_View_25-2.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:11+00:00",
+      "file_sha256": "6bfb7a9f6577fd7136dafa95822cb24145a56cf8a9b86155e8c5d5e167c512ce",
+      "file_size_bytes": 1667496,
+      "page_count": 36,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "producer": "Microsoft® PowerPoint® Microsoft 365용",
+        "creationDate": "D:20251010175037+09'00'",
+        "modDate": "D:20251010175037+09'00'"
+      },
+      "nonempty_text_pages": 36,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "FRED, Federal Reserve Bank of St. Louis",
+          "source_pages": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            16,
+            18,
+            20,
+            23,
+            24,
+            27,
+            28,
+            30,
+            32
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "investing.com",
+          "source_pages": [
+            16,
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Fed Bank of Atlanta, GDPNow estimate as of June 2, 2025.",
+          "source_pages": [
+            25
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Federal Reserve Bank of Atlanta, Wage Growth Tracker",
+          "source_pages": [
+            31
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_am_02",
+      "title": "Global Asset Allocation",
+      "team": "자산운용팀",
+      "semester": "25-1 자산운용팀 Main Project",
+      "report_type": "gaa",
+      "listed_publication_date": "2025-06-06",
+      "source_url": "https://glifskku.com/assets/projects/am_02_GAA_25-1.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:10+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/am_02_GAA_25-1.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:12+00:00",
+      "file_sha256": "58654392f39877e9a301fdc7d427cd16d88031e46427a9b6c447aacf1002ea70",
+      "file_size_bytes": 2279072,
+      "page_count": 68,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "producer": "Microsoft® PowerPoint® Microsoft 365용",
+        "creationDate": "D:20250606163215+09'00'",
+        "modDate": "D:20250606163215+09'00'"
+      },
+      "nonempty_text_pages": 68,
+      "failure_reason": null,
+      "upstream_sources": [
+        {
+          "citation_raw": "FRED, Federal Reserve Bank of St. Louis",
+          "source_pages": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            14,
+            15,
+            18,
+            19,
+            20,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Federal Reserve",
+          "source_pages": [
+            6
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "investing.com",
+          "source_pages": [
+            13,
+            16
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "MicroMacro",
+          "source_pages": [
+            20
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Fed Bank of Atlanta, GDPNow estimate as of June 2, 2025.",
+          "source_pages": [
+            21
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Federal Reserve Bank of Atlanta, Wage Growth Tracker",
+          "source_pages": [
+            27
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Wall street Journal",
+          "source_pages": [
+            43
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Palantir Q4 Earnings Call",
+          "source_pages": [
+            47
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Trading Economics",
+          "source_pages": [
+            50
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Palantir Q1 Earnings Call",
+          "source_pages": [
+            62
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Applovin Q1 Earnings Call",
+          "source_pages": [
+            62
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "GlobalData.TS Lombard: THE ARC OF GRWOTH BENDS WITH CREDIT",
+          "source_pages": [
+            65
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Ray Dailo: Paradigm Shifts",
+          "source_pages": [
+            65,
+            66,
+            67,
+            68
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        },
+        {
+          "citation_raw": "Deutsche Bank: Deeply seeking comparisons to 2000",
+          "source_pages": [
+            67,
+            68
+          ],
+          "verification_status": "page_caption_only_not_primary_verified",
+          "terms_status": "unverified"
+        }
+      ]
+    },
+    {
+      "source_id": "glif_am_01",
+      "title": "Market View",
+      "team": "자산운용팀",
+      "semester": "25-1 자산운용팀 Kick-off Project",
+      "report_type": "market_view",
+      "listed_publication_date": "2025-04-11",
+      "source_url": "https://glifskku.com/assets/projects/am_01_Market_View_25-1.pdf",
+      "listing_url": "https://glifskku.com/projects.html",
+      "first_discovered_at": "2026-11-16T16:34:01+00:00",
+      "listed": true,
+      "access_attempted_at": "2026-11-16T16:34:11+00:00",
+      "http_status": 200,
+      "final_url": "https://glifskku.com/assets/projects/am_01_Market_View_25-1.pdf",
+      "http_last_modified": null,
+      "http_etag": null,
+      "access_status": "downloaded",
+      "downloaded_at": "2026-11-16T16:34:12+00:00",
+      "file_sha256": "582b7cea25d9e3078f57ada82fbf257c894b44bb57d414dbc6ec8120613ec2d6",
+      "file_size_bytes": 4918843,
+      "page_count": 34,
+      "pdf_metadata": {
+        "format": "PDF 1.4",
+        "producer": "macOS 버전 15.3.2(빌드 24D81) Quartz PDFContext",
+        "creationDate": "D:20250413054409Z00'00'",
+        "modDate": "D:20250413054409Z00'00'"
+      },
+      "nonempty_text_pages": 34,
+      "failure_reason": null,
+      "upstream_sources": []
+    }
+  ]
+}

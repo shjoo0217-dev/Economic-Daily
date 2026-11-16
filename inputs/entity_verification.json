@@ -1,0 +1,694 @@
+{
+  "access": [
+    {
+      "url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "sha256": "d01c5deac0a34556fc0c42dbdc4e3340d4d80ccaac64106150b206127492b22d",
+      "collected_at": "2026-11-16T16:35:21+00:00",
+      "row_count": 829,
+      "purpose": "current_security_identity_only"
+    },
+    {
+      "url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=kosdaqMkt",
+      "sha256": "bf7816d907e1a4ab2b8c219e4455ff9f4b6680beb4f1955e09751decc0082141",
+      "collected_at": "2026-11-16T16:35:23+00:00",
+      "row_count": 1833,
+      "purpose": "current_security_identity_only"
+    },
+    {
+      "url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "sha256": "b6b43c18ef7fffd3283be5f04954a277100988841c171639c1647e85044b0b49",
+      "collected_at": "2026-11-16T16:35:24+00:00",
+      "provider_file_creation_raw": "File Creation Time: 1116202611:01|||||||",
+      "purpose": "current_security_identity_only"
+    },
+    {
+      "url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "sha256": "0d9549b84dd2d40e7c49190067a12f00ee62a070686fa3c00eea82a00a1e02a0",
+      "collected_at": "2026-11-16T16:35:25+00:00",
+      "provider_file_creation_raw": "File Creation Time: 1116202611:01||||||",
+      "purpose": "current_security_identity_only"
+    }
+  ],
+  "entities": {
+    "KR:000660": {
+      "entity_id": "KR:000660",
+      "entity_name": "SK하이닉스",
+      "ticker": "000660",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:005930": {
+      "entity_id": "KR:005930",
+      "entity_name": "삼성전자",
+      "ticker": "005930",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:042700": {
+      "entity_id": "KR:042700",
+      "entity_name": "한미반도체",
+      "ticker": "042700",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:095340": {
+      "entity_id": "KR:095340",
+      "entity_name": "ISC",
+      "ticker": "095340",
+      "exchange": "KOSDAQ",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=kosdaqMkt",
+      "identity_verified_at": "2026-11-16T16:35:23+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:078930": {
+      "entity_id": "KR:078930",
+      "entity_name": "GS",
+      "ticker": "078930",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:010950": {
+      "entity_id": "KR:010950",
+      "entity_name": "S-Oil",
+      "ticker": "010950",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:096770": {
+      "entity_id": "KR:096770",
+      "entity_name": "SK이노베이션",
+      "ticker": "096770",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:011930": {
+      "entity_id": "KR:011930",
+      "entity_name": "신성이엔지",
+      "ticker": "011930",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:066570": {
+      "entity_id": "KR:066570",
+      "entity_name": "LG전자",
+      "ticker": "066570",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:010140": {
+      "entity_id": "KR:010140",
+      "entity_name": "삼성중공업",
+      "ticker": "010140",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:042660": {
+      "entity_id": "KR:042660",
+      "entity_name": "한화오션",
+      "ticker": "042660",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:439260": {
+      "entity_id": "KR:439260",
+      "entity_name": "대한조선",
+      "ticker": "439260",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:267260": {
+      "entity_id": "KR:267260",
+      "entity_name": "HD현대일렉트릭",
+      "ticker": "267260",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:103590": {
+      "entity_id": "KR:103590",
+      "entity_name": "일진전기",
+      "ticker": "103590",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:207940": {
+      "entity_id": "KR:207940",
+      "entity_name": "삼성바이오로직스",
+      "ticker": "207940",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:128940": {
+      "entity_id": "KR:128940",
+      "entity_name": "한미약품",
+      "ticker": "128940",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:189300": {
+      "entity_id": "KR:189300",
+      "entity_name": "인텔리안테크",
+      "ticker": "189300",
+      "exchange": "KOSDAQ",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=kosdaqMkt",
+      "identity_verified_at": "2026-11-16T16:35:23+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:012450": {
+      "entity_id": "KR:012450",
+      "entity_name": "한화에어로스페이스",
+      "ticker": "012450",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:103140": {
+      "entity_id": "KR:103140",
+      "entity_name": "풍산",
+      "ticker": "103140",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:079550": {
+      "entity_id": "KR:079550",
+      "entity_name": "LIG디펜스앤에어로스페이스",
+      "ticker": "079550",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:278470": {
+      "entity_id": "KR:278470",
+      "entity_name": "에이피알",
+      "ticker": "278470",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:192820": {
+      "entity_id": "KR:192820",
+      "entity_name": "코스맥스",
+      "ticker": "192820",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:083650": {
+      "entity_id": "KR:083650",
+      "entity_name": "비에이치아이",
+      "ticker": "083650",
+      "exchange": "KOSDAQ",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=kosdaqMkt",
+      "identity_verified_at": "2026-11-16T16:35:23+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "KR:034020": {
+      "entity_id": "KR:034020",
+      "entity_name": "두산에너빌리티",
+      "ticker": "034020",
+      "exchange": "KOSPI",
+      "country": "KR",
+      "identity_source_url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+      "identity_verified_at": "2026-11-16T16:35:21+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:APP": {
+      "entity_id": "US:APP",
+      "entity_name": "Applovin Corporation - Class A Common Stock",
+      "ticker": "APP",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:COST": {
+      "entity_id": "US:COST",
+      "entity_name": "Costco Wholesale Corporation - Common Stock",
+      "ticker": "COST",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:CSCO": {
+      "entity_id": "US:CSCO",
+      "entity_name": "Cisco Systems, Inc. - Common Stock",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:EWJV": {
+      "entity_id": "US:EWJV",
+      "entity_name": "iShares MSCI Japan Value ETF",
+      "ticker": "EWJV",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:GOOG": {
+      "entity_id": "US:GOOG",
+      "entity_name": "Alphabet Inc. - Class C Capital Stock",
+      "ticker": "GOOG",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:IBB": {
+      "entity_id": "US:IBB",
+      "entity_name": "iShares Biotechnology ETF",
+      "ticker": "IBB",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:IEF": {
+      "entity_id": "US:IEF",
+      "entity_name": "iShares 7-10 Year Treasury Bond ETF",
+      "ticker": "IEF",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:IEI": {
+      "entity_id": "US:IEI",
+      "entity_name": "iShares 3-7 Year Treasury Bond ETF",
+      "ticker": "IEI",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:MRVL": {
+      "entity_id": "US:MRVL",
+      "entity_name": "Marvell Technology, Inc. - Common Stock",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:MU": {
+      "entity_id": "US:MU",
+      "entity_name": "Micron Technology, Inc. - Common Stock",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:NVDA": {
+      "entity_id": "US:NVDA",
+      "entity_name": "NVIDIA Corporation - Common Stock",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:PANW": {
+      "entity_id": "US:PANW",
+      "entity_name": "Palo Alto Networks, Inc. - Common Stock",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:PLTR": {
+      "entity_id": "US:PLTR",
+      "entity_name": "Palantir Technologies Inc. - Class A Common Stock",
+      "ticker": "PLTR",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:RKLB": {
+      "entity_id": "US:RKLB",
+      "entity_name": "Rocket Lab Corporation - Common Stock",
+      "ticker": "RKLB",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:SHY": {
+      "entity_id": "US:SHY",
+      "entity_name": "iShares 1-3 Year Treasury Bond ETF",
+      "ticker": "SHY",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:SMH": {
+      "entity_id": "US:SMH",
+      "entity_name": "VanEck Semiconductor ETF",
+      "ticker": "SMH",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:SNDK": {
+      "entity_id": "US:SNDK",
+      "entity_name": "Sandisk Corporation - Common Stock When-Issued",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:TLT": {
+      "entity_id": "US:TLT",
+      "entity_name": "iShares 20+ Year Treasury Bond ETF",
+      "ticker": "TLT",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:TSLA": {
+      "entity_id": "US:TSLA",
+      "entity_name": "Tesla, Inc.  - Common Stock",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:VRTX": {
+      "entity_id": "US:VRTX",
+      "entity_name": "Vertex Pharmaceuticals Incorporated - Common Stock",
+      "ticker": "VRTX",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:XOVR": {
+      "entity_id": "US:XOVR",
+      "entity_name": "ERShares Private-Public Crossover ETF",
+      "ticker": "XOVR",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:24+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:CPER": {
+      "entity_id": "US:CPER",
+      "entity_name": "United States Copper Index Fund ETV",
+      "ticker": "CPER",
+      "exchange": "NYSE_ARCA",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:CRS": {
+      "entity_id": "US:CRS",
+      "entity_name": "Carpenter Technology Corporation Common Stock",
+      "ticker": "CRS",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:FXY": {
+      "entity_id": "US:FXY",
+      "entity_name": "Invesco CurrencyShares Japanese Yen Trust",
+      "ticker": "FXY",
+      "exchange": "NYSE_ARCA",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:HII": {
+      "entity_id": "US:HII",
+      "entity_name": "Huntington Ingalls Industries, Inc. Common Stock",
+      "ticker": "HII",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:IAU": {
+      "entity_id": "US:IAU",
+      "entity_name": "iShares Gold Trust Shares",
+      "ticker": "IAU",
+      "exchange": "NYSE_ARCA",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:IBM": {
+      "entity_id": "US:IBM",
+      "entity_name": "International Business Machines Corporation Common Stock",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:IGV": {
+      "entity_id": "US:IGV",
+      "entity_name": "iShares Expanded Tech-Software Sector ETF",
+      "ticker": "IGV",
+      "exchange": "CBOE_BZX",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:JNJ": {
+      "entity_id": "US:JNJ",
+      "entity_name": "Johnson & Johnson Common Stock",
+      "ticker": "JNJ",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:KMI": {
+      "entity_id": "US:KMI",
+      "entity_name": "Kinder Morgan, Inc. Common Stock",
+      "ticker": "KMI",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:LLY": {
+      "entity_id": "US:LLY",
+      "entity_name": "Eli Lilly and Company Common Stock",
+      "ticker": "LLY",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:PM": {
+      "entity_id": "US:PM",
+      "entity_name": "Philip Morris International Inc Common Stock",
+      "ticker": "PM",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:RBLX": {
+      "entity_id": "US:RBLX",
+      "entity_name": "Roblox Corporation Class A Common Stock",
+      "ticker": "RBLX",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:RDDT": {
+      "entity_id": "US:RDDT",
+      "entity_name": "Reddit, Inc. Class A Common Stock",
+      "ticker": "RDDT",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:SHV": {
+      "entity_id": "US:SHV",
+      "entity_name": "iShares 0-1 Year Treasury Bond ETF",
+      "ticker": "SHV",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:SHYG": {
+      "entity_id": "US:SHYG",
+      "entity_name": "iShares 0-5 Year High Yield Corporate Bond ETF",
+      "ticker": "SHYG",
+      "exchange": "NYSE_ARCA",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:USO": {
+      "entity_id": "US:USO",
+      "entity_name": "United States Oil Fund",
+      "ticker": "USO",
+      "exchange": "NYSE_ARCA",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:VRT": {
+      "entity_id": "US:VRT",
+      "entity_name": "Vertiv Holdings, LLC Class A Common Stock",
+      "ticker": "VRT",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:WM": {
+      "entity_id": "US:WM",
+      "entity_name": "Waste Management, Inc. Common Stock",
+      "ticker": "WM",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:XLE": {
+      "entity_id": "US:XLE",
+      "entity_name": "State Street Energy Select Sector SPDR ETF",
+      "ticker": "XLE",
+      "exchange": "NYSE_ARCA",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:VIXY": {
+      "entity_id": "US:VIXY",
+      "entity_name": "VIX Short-Term Futures ETF",
+      "ticker": "VIXY",
+      "exchange": "CBOE_BZX",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    },
+    "US:CLS": {
+      "entity_id": "US:CLS",
+      "entity_name": "Celestica, Inc. Common Stock",
+      "ticker": "CLS",
+      "exchange": "NYSE",
+      "country": "US",
+      "identity_source_url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "identity_verified_at": "2026-11-16T16:35:25+00:00",
+      "identity_status": "current_directory_verified_historical_unverified"
+    }
+  }
+}

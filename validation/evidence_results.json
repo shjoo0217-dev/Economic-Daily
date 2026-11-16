@@ -1,0 +1,966 @@
+{
+  "pdf_hashes_verified": 18,
+  "numeric_literals_verified": 104,
+  "external_factual_accuracy_verified": false,
+  "results": [
+    {
+      "source_id": "glif_im_11",
+      "source_pages": [
+        34
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "2조9,760억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_11",
+      "source_pages": [
+        34
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "1조7,174억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_11",
+      "source_pages": [
+        34
+      ],
+      "metric_name": "operating_profit_growth_yoy",
+      "original_value": "130.8%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_11",
+      "source_pages": [
+        34
+      ],
+      "metric_name": "refining_capacity",
+      "original_value": "하루80만배럴",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_11",
+      "source_pages": [
+        36
+      ],
+      "metric_name": "capex",
+      "original_value": "약2.1조원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_11",
+      "source_pages": [
+        36
+      ],
+      "metric_name": "capex",
+      "original_value": "약0.5조원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_11",
+      "source_pages": [
+        38
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "5.6조원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_11",
+      "source_pages": [
+        38
+      ],
+      "metric_name": "refining_capacity",
+      "original_value": "일111.5만배럴",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_10",
+      "source_pages": [
+        32
+      ],
+      "metric_name": "revenue",
+      "original_value": "2,018억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_10",
+      "source_pages": [
+        32
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "31억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_10",
+      "source_pages": [
+        32
+      ],
+      "metric_name": "revenue_growth_yoy",
+      "original_value": "+44%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_10",
+      "source_pages": [
+        32
+      ],
+      "metric_name": "eng_segment_order_backlog",
+      "original_value": "3,926억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_10",
+      "source_pages": [
+        35
+      ],
+      "metric_name": "order_backlog",
+      "original_value": "150억달러",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_10",
+      "source_pages": [
+        35
+      ],
+      "metric_name": "organic_order_growth_yoy",
+      "original_value": "252%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_10",
+      "source_pages": [
+        35
+      ],
+      "metric_name": "book_to_bill_ratio",
+      "original_value": "약2.9배",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_09",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "flng_market_share",
+      "original_value": "약70% 이상",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_09",
+      "source_pages": [
+        33
+      ],
+      "metric_name": "special_vessel_addressable_market",
+      "original_value": "1,920억달러",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_09",
+      "source_pages": [
+        35
+      ],
+      "metric_name": "suezmax_required_additional_orders",
+      "original_value": "134척",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_08",
+      "source_pages": [
+        38
+      ],
+      "metric_name": "revenue",
+      "original_value": "1조1,632억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_08",
+      "source_pages": [
+        38
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "3,209억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_08",
+      "source_pages": [
+        38
+      ],
+      "metric_name": "operating_margin",
+      "original_value": "27.6%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_08",
+      "source_pages": [
+        38
+      ],
+      "metric_name": "operating_margin_change_yoy",
+      "original_value": "7.2%p",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_08",
+      "source_pages": [
+        38
+      ],
+      "metric_name": "revenue",
+      "original_value": "4조795억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_08",
+      "source_pages": [
+        38
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "9,953억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_08",
+      "source_pages": [
+        38
+      ],
+      "metric_name": "revenue_guidance",
+      "original_value": "4조3,500억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_08",
+      "source_pages": [
+        39
+      ],
+      "metric_name": "revenue",
+      "original_value": "2조446억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_08",
+      "source_pages": [
+        39
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "1,512억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_07",
+      "source_pages": [
+        35
+      ],
+      "metric_name": "ebitda_margin",
+      "original_value": "55%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_07",
+      "source_pages": [
+        35
+      ],
+      "metric_name": "revenue_growth_yoy",
+      "original_value": "24.4%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_07",
+      "source_pages": [
+        35
+      ],
+      "metric_name": "planned_bioreactor_capacity",
+      "original_value": "964,000리터",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_06",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "terrestrial_antenna_revenue",
+      "original_value": "400억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_06",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "terrestrial_antenna_revenue_growth_yoy",
+      "original_value": "25.7%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_06",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "maritime_antenna_revenue_growth_yoy",
+      "original_value": "30.9%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_06",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "ast_spacemobile_contract_value",
+      "original_value": "281억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_06",
+      "source_pages": [
+        28
+      ],
+      "metric_name": "space_systems_revenue_share",
+      "original_value": "약70%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_05",
+      "source_pages": [
+        29
+      ],
+      "metric_name": "planned_overseas_defense_investment",
+      "original_value": "6조2,700억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_05",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "defense_revenue_share",
+      "original_value": "29.9%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_05",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "copper_revenue_share",
+      "original_value": "61.1%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_05",
+      "source_pages": [
+        33
+      ],
+      "metric_name": "export_revenue_share",
+      "original_value": "17.3%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_05",
+      "source_pages": [
+        33
+      ],
+      "metric_name": "order_backlog",
+      "original_value": "18조3904억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_04",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "revenue",
+      "original_value": "6,027억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_04",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "577억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_04",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "operating_margin",
+      "original_value": "9.6%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_04",
+      "source_pages": [
+        30
+      ],
+      "metric_name": "japan_device_revenue_growth_yoy",
+      "original_value": "+232%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        28
+      ],
+      "metric_name": "revenue",
+      "original_value": "22.2조원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        28
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "9.2조원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        28
+      ],
+      "metric_name": "revenue",
+      "original_value": "23조원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        28
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "10조원이상",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        28
+      ],
+      "metric_name": "hbm_revenue",
+      "original_value": "40.3조원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        29
+      ],
+      "metric_name": "market_size",
+      "original_value": "591억달러",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        29
+      ],
+      "metric_name": "supply_growth_yoy",
+      "original_value": "+62%YoY",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        29
+      ],
+      "metric_name": "demand_growth_yoy",
+      "original_value": "+52%YoY",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        30
+      ],
+      "metric_name": "revenue",
+      "original_value": "1,801억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        30
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "863억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        30
+      ],
+      "metric_name": "operating_margin",
+      "original_value": "47.9%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_03",
+      "source_pages": [
+        31
+      ],
+      "metric_name": "test_socket_revenue_share",
+      "original_value": "95.2%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_02",
+      "source_pages": [
+        33
+      ],
+      "metric_name": "revenue",
+      "original_value": "4047억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_02",
+      "source_pages": [
+        33
+      ],
+      "metric_name": "operating_profit",
+      "original_value": "219억원",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_01",
+      "source_pages": [
+        64
+      ],
+      "metric_name": "china_robot_revenue_share",
+      "original_value": "약26.3%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_01",
+      "source_pages": [
+        65
+      ],
+      "metric_name": "harmonic_drive_market_share",
+      "original_value": "18%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_01",
+      "source_pages": [
+        66
+      ],
+      "metric_name": "vehicle_production",
+      "original_value": "362,615대",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_im_01",
+      "source_pages": [
+        66
+      ],
+      "metric_name": "vehicle_deliveries",
+      "original_value": "336,681대",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_01",
+      "source_pages": [
+        5
+      ],
+      "metric_name": "mortgage_rate_30y",
+      "original_value": "6.62%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_01",
+      "source_pages": [
+        6
+      ],
+      "metric_name": "treasury_yield_10y",
+      "original_value": "4.432%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_01",
+      "source_pages": [
+        6
+      ],
+      "metric_name": "mortgage_treasury_spread",
+      "original_value": "2.188%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_01",
+      "source_pages": [
+        11
+      ],
+      "metric_name": "nonfarm_payroll_change",
+      "original_value": "22.8만명",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_01",
+      "source_pages": [
+        11
+      ],
+      "metric_name": "unemployment_rate",
+      "original_value": "4.2%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_01",
+      "source_pages": [
+        11
+      ],
+      "metric_name": "labor_force_participation",
+      "original_value": "62.5%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_01",
+      "source_pages": [
+        11
+      ],
+      "metric_name": "u6_unemployment_rate",
+      "original_value": "7.9%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_01",
+      "source_pages": [
+        12
+      ],
+      "metric_name": "pce_inflation_yoy",
+      "original_value": "2.5%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_02",
+      "source_pages": [
+        13
+      ],
+      "metric_name": "unemployment_rate",
+      "original_value": "4.2%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_02",
+      "source_pages": [
+        13
+      ],
+      "metric_name": "nonfarm_payroll_change",
+      "original_value": "177K",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_02",
+      "source_pages": [
+        13
+      ],
+      "metric_name": "labor_force_participation",
+      "original_value": "62.6%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_02",
+      "source_pages": [
+        16
+      ],
+      "metric_name": "cpi_inflation_yoy",
+      "original_value": "3.5%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_02",
+      "source_pages": [
+        21
+      ],
+      "metric_name": "real_gdp_growth_saar",
+      "original_value": "+4.6%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_02",
+      "source_pages": [
+        21
+      ],
+      "metric_name": "net_exports_gdp_growth_contribution",
+      "original_value": "+1.45%p",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_03",
+      "source_pages": [
+        11
+      ],
+      "metric_name": "mortgage_rate_30y",
+      "original_value": "6.34%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_03",
+      "source_pages": [
+        11
+      ],
+      "metric_name": "treasury_yield_10y",
+      "original_value": "4.1%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_03",
+      "source_pages": [
+        17
+      ],
+      "metric_name": "policy_rate_lower",
+      "original_value": "4.00%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_03",
+      "source_pages": [
+        17
+      ],
+      "metric_name": "policy_rate_upper",
+      "original_value": "4.25%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_03",
+      "source_pages": [
+        20
+      ],
+      "metric_name": "cpi_inflation_yoy",
+      "original_value": "2.9%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_03",
+      "source_pages": [
+        20
+      ],
+      "metric_name": "cpi_inflation_mom",
+      "original_value": "0.4%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_05",
+      "source_pages": [
+        19
+      ],
+      "metric_name": "nonfarm_payroll_change",
+      "original_value": "178K",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_05",
+      "source_pages": [
+        19
+      ],
+      "metric_name": "unemployment_rate",
+      "original_value": "4.3%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_05",
+      "source_pages": [
+        20
+      ],
+      "metric_name": "policy_rate_lower",
+      "original_value": "3.50%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_05",
+      "source_pages": [
+        20
+      ],
+      "metric_name": "policy_rate_upper",
+      "original_value": "3.75%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_05",
+      "source_pages": [
+        22
+      ],
+      "metric_name": "cpi_inflation_yoy",
+      "original_value": "2.5%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_05",
+      "source_pages": [
+        22
+      ],
+      "metric_name": "core_cpi_inflation_yoy",
+      "original_value": "2.5%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_06",
+      "source_pages": [
+        4
+      ],
+      "metric_name": "commercial_bank_loans_outstanding",
+      "original_value": "approximately $13.53 trillion",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_06",
+      "source_pages": [
+        4
+      ],
+      "metric_name": "commercial_industrial_loan_change",
+      "original_value": "declined 5.6%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_06",
+      "source_pages": [
+        14
+      ],
+      "metric_name": "household_debt_delinquency_rate",
+      "original_value": "4.8%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_06",
+      "source_pages": [
+        81
+      ],
+      "metric_name": "labor_productivity_growth_saar",
+      "original_value": "0.8%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_06",
+      "source_pages": [
+        81
+      ],
+      "metric_name": "hourly_compensation_growth_saar",
+      "original_value": "3.1%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        9
+      ],
+      "metric_name": "bb_option_adjusted_spread",
+      "original_value": "2.04%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        9
+      ],
+      "metric_name": "b_option_adjusted_spread",
+      "original_value": "3.29%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        9
+      ],
+      "metric_name": "ccc_lower_option_adjusted_spread",
+      "original_value": "12.15%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        12
+      ],
+      "metric_name": "bank_loans_to_ndfi",
+      "original_value": "약2.07조달러",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        20
+      ],
+      "metric_name": "cpi_inflation_yoy_quarter_average",
+      "original_value": "3.83%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        20
+      ],
+      "metric_name": "cpi_inflation_yoy_partial_quarter_average",
+      "original_value": "3.40%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        20
+      ],
+      "metric_name": "core_cpi_inflation_yoy_partial_quarter_average",
+      "original_value": "2.45%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        20
+      ],
+      "metric_name": "ppi_inflation_yoy_partial_quarter_average",
+      "original_value": "5.10%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        30
+      ],
+      "metric_name": "real_gdp_growth_saar",
+      "original_value": "2.5%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        30
+      ],
+      "metric_name": "real_gdp_growth_saar",
+      "original_value": "2.2%",
+      "literal_found": true
+    },
+    {
+      "source_id": "glif_am_07",
+      "source_pages": [
+        30
+      ],
+      "metric_name": "real_gdp_growth_forecast",
+      "original_value": "2.2%",
+      "literal_found": true
+    }
+  ],
+  "visual_review_pages": {
+    "glif_am_02": [
+      32
+    ],
+    "glif_am_04": [
+      36
+    ],
+    "glif_am_05": [
+      26
+    ],
+    "glif_am_06": [
+      44
+    ],
+    "glif_im_07": [
+      1
+    ],
+    "glif_im_08": [
+      38
+    ],
+    "glif_im_09": [
+      33
+    ]
+  }
+}
